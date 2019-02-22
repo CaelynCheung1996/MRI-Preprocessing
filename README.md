@@ -11,7 +11,7 @@
 ------------------------------------------------------------
 ### Inhomogeneity Correction
 - [N3](http://www.bic.mni.mcgill.ca/software/N3/)
-- [N4](http://www.insight-journal.org/browse/publication/640): newer and presumably better, but in some cases N3 seems to work better. I think both tools are implemented as part of the ANTs suite of tools 
+- [N4](http://www.insight-journal.org/browse/publication/640) newer and presumably better, but in some cases N3 seems to work better. I think both tools are implemented as part of the ANTs suite of tools 
   
 ### Intensity Normalization
 - [ITK NormalizeImageFilter](https://itk.org/Doxygen/html/classitk_1_1NormalizeImageFilter.html)
@@ -33,7 +33,7 @@
 ## Some useful image viewer
 - [Slicer](https://www.slicer.org/) comes with a lot of useful package to process images, including most of those mentione above. 
 - [ImageJ] (https://imagej.nih.gov/ij/)
-- [FslView](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslView)
+- [FslView] (https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslView)
 
 
 
