@@ -1,6 +1,7 @@
 #!/bin/bash
 exec <list_subjects.txt
 while read x; do
-#mri_convert $x.mgz $x.nii.gz
-rm $x.mgz
+mri_convert $x.mgz $x.nii.gz
+# recon-all $x.nii.gz -s destination folder -autorecon1 -cw256
+# Run any command you want to process the whole batch of image data
 done
