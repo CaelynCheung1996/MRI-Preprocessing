@@ -17,7 +17,7 @@
 - [ITK NormalizeImageFilter](https://itk.org/Doxygen/html/classitk_1_1NormalizeImageFilter.html)
 
 ### Skull Stripping
-- [BET](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide): this is part of the FSL suite that is quite straightforward to install in ubuntu. It is widely used tool, but there are a lot parameters to tune and sometimes it just fails for some reasons
+- [BET](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide) this is part of the FSL suite that is quite straightforward to install in ubuntu. It is widely used tool, but there are a lot parameters to tune and sometimes it just fails for some reasons
 - [Robex](https://www.nitrc.org/projects/robex)
 - [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/skullstrip)
 - [Multi-atlas skull stripping (MASS)](https://www.nitrc.org/projects/cbica_mass) 
@@ -32,8 +32,8 @@
 
 ## Some useful image viewer
 - [Slicer](https://www.slicer.org/) comes with a lot of useful package to process images, including most of those mentione above. 
-- [ImageJ] (https://imagej.nih.gov/ij/)
-- [FslView] (https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslView)
+- [ImageJ](https://imagej.nih.gov/ij/)
+- [FslView](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslView)
 
 
 
