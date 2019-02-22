@@ -7,7 +7,7 @@
 - Tissue class segmentation
 - Intensity Normalization
 
-## Here are some useful tools to preprocess MR image data
+## MR Image Data Preprocessing Tools
 ------------------------------------------------------------
 ### Inhomogeneity Correction
 - [N3](http://www.bic.mni.mcgill.ca/software/N3/)
@@ -30,7 +30,7 @@
 - [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferCommandsRegistration)
 
 
-## Some useful image viewer
+## Image Viewers
 - [Slicer](https://www.slicer.org/) comes with a lot of useful packages to process images, including most of those mentione above. 
 - [ImageJ](https://imagej.nih.gov/ij/)
 - [FslView](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslView)
