@@ -1,0 +1,6 @@
+#!/bin/bash
+exec <list_subjects.txt
+while read x; do
+#mri_convert $x.mgz $x.nii.gz
+rm $x.mgz
+done
