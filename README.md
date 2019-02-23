@@ -32,7 +32,7 @@
 
 ## Image Viewers
 --------------------
-- [Slicer](https://www.slicer.org/) comes with a lot of useful packages to process images, including most of those mentione above. 
+- [Slicer](https://www.slicer.org/) comes with a lot of useful packages to process images, including most of those mentioned above. 
 - [ImageJ](https://imagej.nih.gov/ij/)
 - [FslView](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslView)
 
