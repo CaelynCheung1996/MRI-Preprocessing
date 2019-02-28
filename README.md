@@ -21,8 +21,6 @@
 - [Robex](https://www.nitrc.org/projects/robex)
 - [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/skullstrip)
 - [Multi-atlas skull stripping (MASS)](https://www.nitrc.org/projects/cbica_mass) 
-
-related paper:https://www.sciencedirect.com/science/article/pii/S1076633213004182
 - [AFNI](https://afni.nimh.nih.gov/download)
 
 ### Affine Registration
