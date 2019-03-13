@@ -1,5 +1,4 @@
 # MRI-Preprocessing
---------------------------
 ## MR Images Preprocessing Pipeline
 - Inhomogeneity Correction
 - Brain Extraction (Skull Stripping)
@@ -8,7 +7,6 @@
 - Intensity Normalization
 
 ## MR Image Data Preprocessing Tools
-------------------------------------------------------------
 ### Inhomogeneity Correction
 - [N3](http://www.bic.mni.mcgill.ca/software/N3/)
 - [N4](http://www.insight-journal.org/browse/publication/640) newer and presumably better, but in some cases N3 seems to work better. I think both tools are implemented as part of the ANTs suite of tools 
